@@ -3,6 +3,7 @@ package exercicio_10;
 public class teste_casa {
 	public static void main(String[] args) {
 
+		//teste
 		Casa casa1 = new Casa();
 		casa1.setCor("Rosa");
 		casa1.getPortas().add(new Porta(true, "Verde", 1677, 1424, 24));
